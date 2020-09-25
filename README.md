@@ -1,6 +1,6 @@
 # BadgeGenerator
 
-##What does it do ?
+## What does it do ?
 Badge Generator is a img.shields.io python generator
 
 ## How its Work ?
