@@ -14,3 +14,6 @@ Badge Generator is a img.shields.io python generator
     -t , -su or --subject, -title to define a title/subject of your badge.
     -st , -m or --status, --message to define a status/message of your badge.
     -l or --logo to define a logo like : django, python, javascript, and others (just try).
+    or You just run with python 3+ you will see a step by step!
+    
+    Have Fun!
